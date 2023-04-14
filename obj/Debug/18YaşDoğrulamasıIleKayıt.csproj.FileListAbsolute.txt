@@ -1,0 +1,10 @@
+C:\Users\PC\Desktop\tcdoğrulama\c# soap ile tc kimlik dogrulama\18YaşDoğrulamasıIleKayıt\bin\Debug\18YaşDoğrulamasıIleKayıt.exe.config
+C:\Users\PC\Desktop\tcdoğrulama\c# soap ile tc kimlik dogrulama\18YaşDoğrulamasıIleKayıt\bin\Debug\18YaşDoğrulamasıIleKayıt.exe
+C:\Users\PC\Desktop\tcdoğrulama\c# soap ile tc kimlik dogrulama\18YaşDoğrulamasıIleKayıt\bin\Debug\18YaşDoğrulamasıIleKayıt.pdb
+C:\Users\PC\Desktop\tcdoğrulama\c# soap ile tc kimlik dogrulama\18YaşDoğrulamasıIleKayıt\obj\Debug\18YaşDoğrulamasıIleKayıt.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\tcdoğrulama\c# soap ile tc kimlik dogrulama\18YaşDoğrulamasıIleKayıt\obj\Debug\_18YaşDoğrulamasıIleKayıt.Form1.resources
+C:\Users\PC\Desktop\tcdoğrulama\c# soap ile tc kimlik dogrulama\18YaşDoğrulamasıIleKayıt\obj\Debug\_18YaşDoğrulamasıIleKayıt.Properties.Resources.resources
+C:\Users\PC\Desktop\tcdoğrulama\c# soap ile tc kimlik dogrulama\18YaşDoğrulamasıIleKayıt\obj\Debug\18YaşDoğrulamasıIleKayıt.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\tcdoğrulama\c# soap ile tc kimlik dogrulama\18YaşDoğrulamasıIleKayıt\obj\Debug\18YaşDoğrulamasıIleKayıt.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\tcdoğrulama\c# soap ile tc kimlik dogrulama\18YaşDoğrulamasıIleKayıt\obj\Debug\18YaşDoğrulamasıIleKayıt.exe
+C:\Users\PC\Desktop\tcdoğrulama\c# soap ile tc kimlik dogrulama\18YaşDoğrulamasıIleKayıt\obj\Debug\18YaşDoğrulamasıIleKayıt.pdb
